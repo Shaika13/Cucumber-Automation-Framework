@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRun
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 21.941 sec <<< FAILURE!
+Data driven searching #1(Login)  Time elapsed: 3.363 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'user entern Password as "abd34"' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("user entern Password as {string}")
+public void user_entern_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Data driven searching #2(Login)  Time elapsed: 3.502 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'user entern Password as "123rft"' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("user entern Password as {string}")
+public void user_entern_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

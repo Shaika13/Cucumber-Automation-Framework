@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="testRunner.TestRun" time="21.193" errors="2" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.1+12-LTS-39"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\BS717\eclipse-workspace\CucumberFrameworkForAutomation"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\BS717\eclipse-workspace\CucumberFrameworkForAutomation"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\BS717\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\BS717\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8207430007503447907.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-17.0.1/bin/server;C:/Program Files/Java/jdk-17.0.1/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-17.0.1\bin;C:\Program Files\Java\jdk-17.0.1;C:\Program Files\Java\jdk-17.0.1\lib;C:\Users\BS717\AppData\Local\Android\Sdk\platform-tools;C:\Users\BS717\AppData\Local\Android\Sdk\tools;C:\Users\BS717\AppData\Local\Android\Sdk\build-tools;C:\Users\BS717\AppData\Local\Android\Sdk\tools\bin;C:\apache-maven-3.8.4\bin\;C:\apache-maven-3.8.4\\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\BS717\AppData\Local\Microsoft\WindowsApps;C:\Users\BS717\AppData\Roaming\npm;C:\Users\BS717\Desktop;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\BS717"/>
+    <property name="user.timezone" value="Asia/Dhaka"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="BS717"/>
+    <property name="java.class.path" value="C:\Users\BS717\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.18.0.20210618-2246\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.1"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.1"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\BS717\eclipse-workspace\CucumberFrameworkForAutomation\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Login" name="searching" time="14.328"/>
+  <testcase classname="Login" name="Data driven searching #1" time="3.363">
+    <error message="The step &apos;user entern Password as &quot;abd34&quot;&apos; is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then(&quot;user entern Password as {string}&quot;)
+public void user_entern_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step &apos;user entern Password as &quot;abd34&quot;&apos; is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then(&quot;user entern Password as {string}&quot;)
+public void user_entern_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</error>
+    <system-out>
+@sanity
+Scenario Outline: Data driven searching # Features/Login.feature:20
+ INFO [main] (steps.java:41)- Launching chrome browser on windows
+The ID: By.name: usernameelement is visible
+ INFO [main] (steps.java:66)- User entered name
+  When user enters name as &quot;admin&quot;      # stepDefinitions.steps.user_enters_name_as(java.lang.String)
+  Then user entern Password as &quot;abd34&quot;
+  And user clicks on login button       # stepDefinitions.steps.user_clicks_on_login_button()
+ INFO [main] (steps.java:87)- Browser closed
+</system-out>
+    <system-err>Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 60714
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 04, 2022 3:57:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Apr 04, 2022 3:57:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 96
+Apr 04, 2022 3:57:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 96
+</system-err>
+  </testcase>
+  <testcase classname="Login" name="Data driven searching #2" time="3.502">
+    <error message="The step &apos;user entern Password as &quot;123rft&quot;&apos; is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then(&quot;user entern Password as {string}&quot;)
+public void user_entern_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step &apos;user entern Password as &quot;123rft&quot;&apos; is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then(&quot;user entern Password as {string}&quot;)
+public void user_entern_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</error>
+    <system-out>
+@sanity
+Scenario Outline: Data driven searching  # Features/Login.feature:21
+ INFO [main] (steps.java:41)- Launching chrome browser on windows
+The ID: By.name: usernameelement is visible
+ INFO [main] (steps.java:66)- User entered name
+  When user enters name as &quot;bs23admin01&quot; # stepDefinitions.steps.user_enters_name_as(java.lang.String)
+  Then user entern Password as &quot;123rft&quot;
+  And user clicks on login button        # stepDefinitions.steps.user_clicks_on_login_button()
+ INFO [main] (steps.java:87)- Browser closed
+</system-out>
+    <system-err>Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 60134
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 04, 2022 3:57:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Apr 04, 2022 3:57:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 96
+Apr 04, 2022 3:57:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 96
+</system-err>
+  </testcase>
+</testsuite>

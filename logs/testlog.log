@@ -1,0 +1,74 @@
+2022-03-30 12:35:53,667 - CucumberAutomation -INFO - Launching chrome browser
+2022-03-30 12:35:59,383 - CucumberAutomation -INFO - User entered email
+2022-03-30 12:36:02,565 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 12:36:03,744 - CucumberAutomation -INFO - User entered password
+2022-03-30 12:36:05,829 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 12:36:05,970 - CucumberAutomation -INFO - Browser closed
+2022-03-30 12:36:06,554 - CucumberAutomation -INFO - Launching chrome browser
+2022-03-30 12:36:11,193 - CucumberAutomation -INFO - User entered email
+2022-03-30 12:36:14,273 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 12:36:15,456 - CucumberAutomation -INFO - User entered password
+2022-03-30 12:36:17,539 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 12:36:17,696 - CucumberAutomation -INFO - Browser closed
+2022-03-30 12:36:18,295 - CucumberAutomation -INFO - Launching chrome browser
+2022-03-30 12:36:23,241 - CucumberAutomation -INFO - User entered email
+2022-03-30 12:36:26,260 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 12:36:27,418 - CucumberAutomation -INFO - User entered password
+2022-03-30 12:36:29,513 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 12:36:29,669 - CucumberAutomation -INFO - Browser closed
+2022-03-30 13:22:40,033 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-03-30 13:22:45,622 - CucumberAutomation -INFO - User entered email
+2022-03-30 13:22:48,593 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:22:49,766 - CucumberAutomation -INFO - User entered password
+2022-03-30 13:22:51,851 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:22:52,025 - CucumberAutomation -INFO - Browser closed
+2022-03-30 13:22:52,612 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-03-30 13:22:57,286 - CucumberAutomation -INFO - User entered email
+2022-03-30 13:23:00,229 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:23:01,401 - CucumberAutomation -INFO - User entered password
+2022-03-30 13:23:03,486 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:23:03,627 - CucumberAutomation -INFO - Browser closed
+2022-03-30 13:23:04,267 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-03-30 13:23:08,837 - CucumberAutomation -INFO - User entered email
+2022-03-30 13:23:11,797 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:23:12,952 - CucumberAutomation -INFO - User entered password
+2022-03-30 13:23:15,023 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:23:15,166 - CucumberAutomation -INFO - Browser closed
+2022-03-30 13:29:34,544 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-03-30 13:29:40,418 - CucumberAutomation -INFO - User entered email
+2022-03-30 13:29:43,470 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:29:44,648 - CucumberAutomation -INFO - User entered password
+2022-03-30 13:29:46,735 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:29:46,920 - CucumberAutomation -INFO - Browser closed
+2022-03-30 13:51:32,033 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-03-30 13:51:37,011 - CucumberAutomation -INFO - User entered email
+2022-03-30 13:51:39,881 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:51:41,058 - CucumberAutomation -INFO - User entered password
+2022-03-30 13:51:43,148 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:51:43,290 - CucumberAutomation -INFO - Browser closed
+2022-03-30 13:55:22,532 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-03-30 13:55:27,687 - CucumberAutomation -INFO - User entered email
+2022-03-30 13:55:30,654 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:55:31,837 - CucumberAutomation -INFO - User entered password
+2022-03-30 13:55:33,920 - CucumberAutomation -INFO - Clicked on login
+2022-03-30 13:55:34,123 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:37:34,646 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:37:42,398 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:39:55,042 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:39:59,240 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:40:43,007 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:40:50,606 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:56:24,900 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:56:33,216 - CucumberAutomation -INFO - User entered name
+2022-04-04 15:56:34,451 - CucumberAutomation -INFO - User entered password
+2022-04-04 15:56:36,972 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:57:26,259 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:57:34,798 - CucumberAutomation -INFO - User entered name
+2022-04-04 15:57:36,107 - CucumberAutomation -INFO - User entered password
+2022-04-04 15:57:38,726 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:57:39,750 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:57:41,842 - CucumberAutomation -INFO - User entered name
+2022-04-04 15:57:42,094 - CucumberAutomation -INFO - Browser closed
+2022-04-04 15:57:43,233 - CucumberAutomation -INFO - Launching chrome browser on windows
+2022-04-04 15:57:45,370 - CucumberAutomation -INFO - User entered name
+2022-04-04 15:57:45,603 - CucumberAutomation -INFO - Browser closed

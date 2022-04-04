@@ -1,0 +1,74 @@
+2022-03-30 12:35:53,667 [main] INFO CucumberAutomation - Launching chrome browser
+2022-03-30 12:35:59,383 [main] INFO CucumberAutomation - User entered email
+2022-03-30 12:36:02,565 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 12:36:03,744 [main] INFO CucumberAutomation - User entered password
+2022-03-30 12:36:05,829 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 12:36:05,970 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 12:36:06,554 [main] INFO CucumberAutomation - Launching chrome browser
+2022-03-30 12:36:11,193 [main] INFO CucumberAutomation - User entered email
+2022-03-30 12:36:14,273 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 12:36:15,456 [main] INFO CucumberAutomation - User entered password
+2022-03-30 12:36:17,539 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 12:36:17,696 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 12:36:18,295 [main] INFO CucumberAutomation - Launching chrome browser
+2022-03-30 12:36:23,241 [main] INFO CucumberAutomation - User entered email
+2022-03-30 12:36:26,260 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 12:36:27,418 [main] INFO CucumberAutomation - User entered password
+2022-03-30 12:36:29,513 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 12:36:29,669 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 13:22:40,033 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-03-30 13:22:45,622 [main] INFO CucumberAutomation - User entered email
+2022-03-30 13:22:48,593 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:22:49,766 [main] INFO CucumberAutomation - User entered password
+2022-03-30 13:22:51,851 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:22:52,025 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 13:22:52,612 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-03-30 13:22:57,286 [main] INFO CucumberAutomation - User entered email
+2022-03-30 13:23:00,229 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:23:01,401 [main] INFO CucumberAutomation - User entered password
+2022-03-30 13:23:03,486 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:23:03,627 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 13:23:04,267 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-03-30 13:23:08,837 [main] INFO CucumberAutomation - User entered email
+2022-03-30 13:23:11,797 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:23:12,952 [main] INFO CucumberAutomation - User entered password
+2022-03-30 13:23:15,023 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:23:15,166 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 13:29:34,544 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-03-30 13:29:40,418 [main] INFO CucumberAutomation - User entered email
+2022-03-30 13:29:43,470 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:29:44,648 [main] INFO CucumberAutomation - User entered password
+2022-03-30 13:29:46,735 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:29:46,920 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 13:51:32,033 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-03-30 13:51:37,011 [main] INFO CucumberAutomation - User entered email
+2022-03-30 13:51:39,881 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:51:41,058 [main] INFO CucumberAutomation - User entered password
+2022-03-30 13:51:43,148 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:51:43,290 [main] INFO CucumberAutomation - Browser closed
+2022-03-30 13:55:22,532 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-03-30 13:55:27,687 [main] INFO CucumberAutomation - User entered email
+2022-03-30 13:55:30,654 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:55:31,837 [main] INFO CucumberAutomation - User entered password
+2022-03-30 13:55:33,920 [main] INFO CucumberAutomation - Clicked on login
+2022-03-30 13:55:34,123 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:37:34,646 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:37:42,398 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:39:55,042 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:39:59,240 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:40:43,007 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:40:50,606 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:56:24,900 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:56:33,216 [main] INFO CucumberAutomation - User entered name
+2022-04-04 15:56:34,451 [main] INFO CucumberAutomation - User entered password
+2022-04-04 15:56:36,972 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:57:26,259 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:57:34,798 [main] INFO CucumberAutomation - User entered name
+2022-04-04 15:57:36,107 [main] INFO CucumberAutomation - User entered password
+2022-04-04 15:57:38,726 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:57:39,750 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:57:41,842 [main] INFO CucumberAutomation - User entered name
+2022-04-04 15:57:42,094 [main] INFO CucumberAutomation - Browser closed
+2022-04-04 15:57:43,233 [main] INFO CucumberAutomation - Launching chrome browser on windows
+2022-04-04 15:57:45,370 [main] INFO CucumberAutomation - User entered name
+2022-04-04 15:57:45,603 [main] INFO CucumberAutomation - Browser closed
